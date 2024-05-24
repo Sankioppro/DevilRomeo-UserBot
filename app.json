@@ -6,7 +6,7 @@
   "stack": "container",
     "env": {
         "STRING_SESSION": {
-            "description": "fill with the telethon session string from @RJssgBot",
+            "description": "fill with the program v2 session string from @RJssgBot",
             "required": true
         },
         "SUDO_USERS": {
