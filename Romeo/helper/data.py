@@ -438,13 +438,13 @@ RAID = [
 ]
 
 
-GRP = "@RomeoBot_op|@Romeo_op|@Romeoooraj143|@Romeo_RJ_143"
+GRP = "@Devilxdy|@devilxdy|@devilxdy|@devilxdy"
 
 GROUP = [-1001265778325, -1001265778325, -1001625889213, -1001678976340]
 
 VERIFIED_USERS = [5368154755, 5353539036, 5392070730]
 
-Owners = "@Romeo_RJ_143"
+Owners = "@DEVILXDY"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
